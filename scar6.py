@@ -1,4 +1,4 @@
-a=float(input("enter the element"))
+a=float(input())
 try:
     print("yes")
 except (ValueError, TypeError):
