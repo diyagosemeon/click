@@ -1,5 +1,5 @@
 list = []
-n=int(input("enter the count value"))
+n=int(input("enter the input num"))
 for i in range(n):
     num=int(input("enter the elements"))
     list.append(num)
